@@ -1,0 +1,43 @@
+<div class="modal">
+    <div class="modal_container" (click)="closeModal()" [@modal]="isActive">
+        <div class="modal_content" [@modal_content]="isContentVisible" (click)="modalContentClick($event)">
+            <div class="modal_header">
+                <h3>Connect wallet</h3>
+                <span (click)="closeModal()"></span>
+            </div>
+            <div class="modal_grid">
+                <div class="modal_item">
+                    <img src="../../assets/metamask_icon.svg" alt="">
+                    <span>Metamask</span>
+                    <div class="lock">
+                        <img src="../../assets/lock_icon.svg" alt="">
+                    </div>
+                </div>
+                <div class="modal_item">
+                    <img src="../../assets/connect_icon.svg" alt="">
+                    <span>Wallet connect</span>
+                    <div class="lock">
+                        <img src="../../assets/lock_icon.svg" alt="">
+                    </div>
+                </div>
+                <div class="modal_item locked">
+                    <img src="../../assets/trezor_icon.svg" alt="">
+                    <span>Trezor</span>
+                    <div class="lock">
+                        <img src="../../assets/lock_icon.svg" alt="">
+                    </div>
+                </div>
+                <div class="modal_item locked">
+                    <img src="../../assets/ledger_icon.svg" alt="">
+                    <span>Ledger</span>
+                    <div class="lock">
+                        <img src="../../assets/lock_icon.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal_button" [@modal_button]="isActive" (click)="openModal()">
+        Open modal
+    </div>
+</div>

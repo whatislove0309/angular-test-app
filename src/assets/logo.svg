@@ -1,0 +1,45 @@
+<svg width="41" height="36" viewBox="0 0 41 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="25.1552" height="25.1553" rx="2.18668" transform="matrix(0.698678 0.715437 0.698554 -0.715557 4.85352 18.0039)" fill="#497641"/>
+<g clip-path="url(#clip0_3934_2582)">
+<rect width="25.0704" height="25.1452" rx="2.18668" transform="matrix(-0.698616 -0.715497 0.698616 -0.715497 17.5137 35.9297)" fill="white"/>
+<g filter="url(#filter0_f_3934_2582)">
+<ellipse rx="10.2233" ry="15.6043" transform="matrix(0.363459 -0.940908 0.918709 0.372241 19.3973 4.4545)" fill="#84FA21"/>
+</g>
+<g filter="url(#filter1_f_3934_2582)">
+<path d="M10.8877 49.0001C3.69897 30.9216 23.8507 -4.94426 43.2744 6.04526C49.6986 9.67994 60.9273 23.309 60.9273 23.309L24.5298 60.1423C24.5298 60.1423 13.7059 56.0875 10.8877 49.0001Z" fill="#D24916"/>
+</g>
+<g filter="url(#filter2_f_3934_2582)">
+<path d="M15.9401 13.0783C19.7965 19.1748 18.331 27.1636 12.6667 30.9219C7.00245 34.6801 -0.715587 32.7846 -4.57201 26.6881C-8.42844 20.5916 -6.9629 12.6027 -1.29863 8.8445C4.36563 5.08624 12.0837 6.98177 15.9401 13.0783Z" fill="#EDF118"/>
+</g>
+<g filter="url(#filter3_f_3934_2582)">
+<ellipse rx="12.2586" ry="9.90409" transform="matrix(0.815868 0.570679 -0.557215 0.835582 13.0218 30.4809)" fill="#B42685"/>
+</g>
+<path d="M26.5104 23.5044C25.2977 24.4288 23.7831 24.8372 22.2832 24.6441L22.2832 20.5979C22.7376 20.5005 23.0754 20.4025 23.444 20.309C23.8433 20.2077 24.1959 19.9677 24.4418 19.6299C24.6878 19.2922 24.8117 18.8775 24.7926 18.4567C24.7735 18.0358 24.6124 17.6347 24.337 17.3218C24.0615 17.0089 23.6886 16.8035 23.2818 16.7406C22.875 16.6777 22.4595 16.7612 22.1061 16.9769C21.7527 17.1926 21.3539 17.8036 21.344 18.4567L21.344 19.3321L21.344 24.4421L21.344 32.2159C19.6906 33.9038 18.8723 35.0772 17.4746 35.013C17.475 32.8364 17.4746 18.2258 17.4746 18.2258C17.4746 15.9629 18.6309 14.4236 19.9135 13.6041C21.196 12.7846 22.7382 12.5047 24.2176 12.823C25.697 13.1413 26.9989 14.0331 27.851 15.3119C28.7031 16.5907 29.0394 18.1574 28.7896 19.6843C28.5397 21.2112 27.723 22.58 26.5104 23.5044Z" fill="white"/>
+</g>
+<path d="M15.3925 6.42527L10.9219 1.48242L10.8711 17.3516C10.8711 22.2944 14.5797 23.6472 16.561 23.8033V19.4328C15.5043 19.3079 15.3417 17.9239 15.3925 17.2475V6.42527Z" fill="white"/>
+<defs>
+<filter id="filter0_f_3934_2582" x="-9.82821" y="-21.1964" width="58.4513" height="51.3014" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="7.2061" result="effect1_foregroundBlur_3934_2582"/>
+</filter>
+<filter id="filter1_f_3934_2582" x="-7.39922" y="-12.805" width="85.1246" height="89.7447" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="8.39883" result="effect1_foregroundBlur_3934_2582"/>
+</filter>
+<filter id="filter2_f_3934_2582" x="-21.1368" y="-7.49862" width="53.6408" height="54.7633" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="7.2061" result="effect1_foregroundBlur_3934_2582"/>
+</filter>
+<filter id="filter3_f_3934_2582" x="-13.8085" y="4.23791" width="53.6619" height="52.4856" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="7.70307" result="effect1_foregroundBlur_3934_2582"/>
+</filter>
+<clipPath id="clip0_3934_2582">
+<rect width="25.0704" height="25.1452" rx="2.18668" transform="matrix(-0.698616 -0.715497 0.698616 -0.715497 17.5137 35.9297)" fill="white"/>
+</clipPath>
+</defs>
+</svg>

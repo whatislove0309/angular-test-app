@@ -1,0 +1,40 @@
+<div [class]="isActive ? 'sidebar active' : 'sidebar'">
+    <div class="sidebar_mask" (click)="isActive = !isActive"></div>
+    <div (click)="isActive = !isActive" class="sidebar_mobile_button">
+        <span></span>
+    </div>
+    <div class="sidebar_header">
+        <img src="../../assets/logo.svg" alt="">
+        <h1>Protocol</h1>
+    </div>
+    <div class="sidebar_nav">
+        <a href="#" class="sidebar_nav_item active">
+            <img src="../../assets/dashboard_icon.svg" alt="">
+            <span>Dashboard</span>
+        </a>
+        <a href="#" class="sidebar_nav_item">
+            <img src="../../assets/pools_icon.svg" alt="">
+            <span>Pools</span>
+        </a>
+    </div>
+    <div class="sidebar_footer">
+        <div class="sidebar_version">Version 1.01</div>
+        <div class="sidebar_links">
+            <a href="#" class="sidebar_links_item">
+                <img src="../../assets/twitter_icon.svg" alt="">
+            </a>
+            <a href="#" class="sidebar_links_item">
+                <img src="../../assets/social_icon.svg" alt="">
+            </a>
+            <a href="#" class="sidebar_links_item">
+                <img src="../../assets/discord_icon.svg" alt="">
+            </a>
+            <a href="#" class="sidebar_links_item">
+                <img src="../../assets/telegram_icon.svg" alt="">
+            </a>
+        </div>
+        <div class="sidebar_web_link">
+
+        </div>
+    </div>
+</div>
